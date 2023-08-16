@@ -1,5 +1,4 @@
 import React from "react";
-import Arena from "../assets/esports_arena.jpg";
 
 const Hero = () => {
   return (
