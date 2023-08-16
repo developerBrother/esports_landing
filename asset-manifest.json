@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/(esports_landing)/static/css/main.cae21b19.css",
-    "main.js": "/(esports_landing)/static/js/main.b0b81e3b.js",
-    "index.html": "/(esports_landing)/index.html",
-    "main.cae21b19.css.map": "/(esports_landing)/static/css/main.cae21b19.css.map",
-    "main.b0b81e3b.js.map": "/(esports_landing)/static/js/main.b0b81e3b.js.map"
+    "main.css": "/esports_landing/static/css/main.cae21b19.css",
+    "main.js": "/esports_landing/static/js/main.b0b81e3b.js",
+    "index.html": "/esports_landing/index.html",
+    "main.cae21b19.css.map": "/esports_landing/static/css/main.cae21b19.css.map",
+    "main.b0b81e3b.js.map": "/esports_landing/static/js/main.b0b81e3b.js.map"
   },
   "entrypoints": [
     "static/css/main.cae21b19.css",
